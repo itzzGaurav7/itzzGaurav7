@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Upadhyay</h1>
+<h4 align="center"><a href="https://gauravupadhyay.tech">Portfolio</a></h4>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
 
@@ -40,5 +41,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzzgaurav7&" alt="itzzgaurav7" /></p>
 <br clear="both">
-
-<img src="https://github.com/itzzGaurav7/itzzGaurav7/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
