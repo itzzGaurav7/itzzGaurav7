@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
-- 👨‍💻 All of my projects are available at [gauravupadhyay.tech](gauravupadhyay.tech)
+- 👨‍💻 All of my projects are available at [gauravupadhyay.tech](gauravupadhyay.live)
 
-- 📝 I regularly write articles on [gauravupadhyay.tech/articles](gauravupadhyay.tech/articles)
+- 📝 I regularly write articles on [gauravupadhyay.live/articles](gauravupadhyay.live/articles)
 
 - 💬 Ask me about **MERN, CP, Web Technologies.**
 
