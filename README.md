@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Upadhyay</h1>
-<h4 align="center"><a href="https://gauravupadhyay.tech">Portfolio</a></h4>
+<h4 align="center"><a href="https://gauravupadhyay.live">Portfolio</a></h4>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
 
